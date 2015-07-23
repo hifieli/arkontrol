@@ -3,6 +3,15 @@ A dedicated server manager for ARK: Survival Evolved
 
 Just like the game itself, we are deep into Alpha phase testing, but far from finished.
 
+arkontrol is composed to 2 main parts:
+
+arkontrol-arkonboard - https://github.com/hifieli/arkontrol-arkonboard
+  This is the installation script that installs ARK and Arkontrol
+  
+arkontrol-php - https://github.com/hifieli/arkontrol-php
+  This is the web panel iteself
+
+
 INSTRUCTIONS:
 
 1. Obtain a Cloud or Dedicated server with at least 3GB of RAM, and a fresh installation of Ubuntu 14.04 LTS
