@@ -14,7 +14,7 @@ arkontrol-php - https://github.com/hifieli/arkontrol-php
 
 INSTRUCTIONS:
 
-1. Obtain a Cloud or Dedicated server with at least 3GB of RAM, and a fresh installation of Ubuntu 14.04 LTS. Please see http://arkontrol.com for suggestions regarding where to find a server.
+1. Obtain a Cloud or Dedicated server with at least 4GB of RAM, and a fresh installation of Ubuntu 14.04 LTS. Please see http://arkontrol.com for suggestions regarding where to find a server.
 2. Log in to the system, issue these commands:
 3. sudo wget http://cdn.arkontrol.com/arkontrol
 4. sudo sh arkontrol
