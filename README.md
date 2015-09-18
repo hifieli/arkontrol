@@ -1,3 +1,5 @@
+--with the release of the official server management tool, arkontrol is effectively a dead project.
+
 # arkontrol
 A dedicated server manager for ARK: Survival Evolved
 
